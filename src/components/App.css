@@ -1,0 +1,34 @@
+/*html, body {
+            height: 100%;
+            background-color: #FFF;
+            margin: 0;
+            padding: 0;
+        }
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: flex-start;
+
+            margin-top: 2em;
+        }
+        div, input {
+            box-sizing: border-box;
+        }
+*/
+.col { 
+    border: 1px solid grey;
+    box-sizing: border-box;
+    position: relative;
+    width: 600px;
+    
+}
+
+.row {
+    border: 1px solid grey;
+    box-sizing: border-box;
+    position: relative;
+}
+
+.checkbox {
+    display: none;
+}
